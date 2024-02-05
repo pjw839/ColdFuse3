@@ -1,7 +1,7 @@
 Random Store (ColdFuse) Privacy Policy 
 ======================================
 
-Last updated: January 30, 2024
+Last updated: February 4, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -81,23 +81,28 @@ identifiable information that can be used to contact or identify You.
 Personally identifiable information may include, but is not limited to:
 
   * Email address 
-  in-app of ColdFuse App and/or through http://www.randomsstore.com website
+  in-app of ColdFuse App and through http://www.randomsstore.com website
   
   * First name and last name 
   only through http://www.randomsstore.com website
 
-  * Phone number 
+  * Phone number
   only through http://www.randomsstore.com website
 
   * Address, State, Province, ZIP/Postal code, City 
   only through http://www.randomsstore.com website
 
-  * Usage Data 
+  * Usage Data
   only through http://www.randomsstore.com website
   
-  * Age 
+  * Age
   in-app of ColdFuse App and through http://www.randomsstore.com website
 
+  * Password
+  in-app of ColdFuse App and through http://www.randomsstore.com website
+
+  * Passkey (16-higher digits keycode)
+  in-app of ColdFuse App and through http://www.randomsstore.com website
 
 Usage Data  
 **********
@@ -333,7 +338,7 @@ Changes to this Privacy Policy are effective when they are posted on this
 page.
 
 Permmisions In-app Use
------------
+----------------------
 
 We may use ColdFuse App to protects other apps on your device. That goes from:
   
@@ -341,43 +346,44 @@ We may use ColdFuse App to protects other apps on your device. That goes from:
   
   *http://www.randomsstore.com website would disclose the collection of personal information on user.
 
-  *E-mail and password is to sign-in into Dashboard throught http://www.randomsstore.com website only.
+  *E-mail and password is to sign-in into ColdFuse App to connect to Dashboard to http://www.randomsstore.com.
 
-  *All Permmisions are intergated within ColdFuse App. Only user can delclare it's own permissions
+  *All Permmisions are intergated within ColdFuse App. Only user can declare it's own permissions
   thought their device with ColdFuse App.
 
-  *By SMS: No text messages are sent and/or recieved with the app only in Dashboard(http://randomsstore.com).
+  *By SMS: No text messages are sent and/or recieved with the app only in Dashboard at http://randomsstore.com.
   
-  *Only access Call Log or SMS permissions when your app falls within permitted uses and only to 
-   enable your device intergsted critical core functionality.
+  *Only access Call Log or SMS permissions when your ColdFuse App permissions is enabled.
    
-  *No Anti-SMS phishing ("smishing") (only enabled by device user permissions selections)
+  *Anti-SMS phishing ("smishing") (only enabled by device user permissions selections)
 
-  *No Backup and restore for users (only enabled by device user permissions selections)
+  *Backup and restore for users (only enabled by device user permissions selections)
 
-  *No Caller ID, spam detection, and /or spam blocking (only enabled by device user permissions selections)
+  *Caller ID, spam detection, and /or spam blocking (only enabled by device user permissions selections)
 
-  *No Write and Show Call History in Dialer (only enabled by device user permissions selections)
+  *Write and Show Call History in Dialer (only enabled by device user permissions selections)
 
-  *No Select Carrier Services (only enabled by device user permissions selections)
+  *Select Carrier Services (only enabled by device user permissions selections)
 
-  *No Connected device companion apps that enable sending and receiving of SMS or calls (only enabled by device user permissions selections)
+  *Connected device companion apps that enable sending and receiving of SMS or calls (only enabled by device user permissions selections)
 
   *No Track, budget, manage SMS-based financial transactions (e.g., 5 digit messages) and related account verification
 
-  *No Cross-device synchronization or transfer of SMS or calls
+  *No Transfer of SMS or calls
+  
+  *Cross-device synchronization (with usb, wifi, bluetooth, and hotspot.)
 
-  *No Default SMS handler (and any other core functionality usage while default handler) (only enabled by device user permissions selections)
+  *Default SMS handler (and any other core functionality usage while default handler) (only enabled by device user permissions selections)
 
-  *No Default Phone handler (and any other core functionality usage while default handler) (only enabled by device user permissions selections)
+  *Default Phone handler (and any other core functionality usage while default handler) (only enabled by device user permissions selections)
 
-  *No Default Assistant handler (and any other core functionality usage while default handler)
+  *Default Assistant handler (and any other core functionality usage while default handler)
 
   *No Device Automation
 
   *No Enterprise archive, enterprise CRM, and / or enterprise device management
 
-  *No In-vehicle hands-free use and projected display (only enabled by device user permissions selections)
+  *In-vehicle hands-free use and projected display (only enabled by device user permissions selections)
 
   *No SMS-based financial transactions (e.g., 5 digit messages)
   
@@ -385,26 +391,27 @@ We may use ColdFuse App to protects other apps on your device. That goes from:
 
   *No Select OEM Services
 
-  *No Proxy calls (only enabled by device user permissions selections)
+  *Proxy calls (only enabled by device user permissions selections)
 
   *No Physical safety / emergency alerts to send SMS
 
-  *No SMS Cell Broadcast
+  *SMS Cell Broadcast (only enabled by device user permissions selections)
   
-  *No Video's are used in-app and/or on website
+  *No Video's are used in-app and/or on website (only by the company)
 
   *All in-app feature's functionality in action is what the device user give permission through your ColdFuse App.
   
-  *location in the background are set by the device user of the ColdFuse App.
+  *Location in the background are set by the device user of the ColdFuse App.
   
-  *Only the user can triggers the prominent disclosure for location in the background.
+  *Only the user can trigger the prominent disclosure for location in the background.
   
   *The device-based runtime permission through the ColdFuse App (with user consent) displaying to the user.
   
   *This is not an Developer’s App to Develope any Software or Hardware.
 
+
 Third-Party Privacy Policy Information
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**************************************
 
 Google Privacy Policy:
 ----------------------
@@ -420,7 +427,26 @@ Department of Defence Privacy Policy:
 -------------------------------------
 
     https://www.acq.osd.mil/web-policy.html
+
+Godaddy
+--------
 	
+	https://www.godaddy.com/legal/agreements/privacy-policy	
+
+	
+Random Store, ColdFuse Privacy Policy
+*************************************
+
+Random Store ColdFuse Privacy Policy
+------------------------------------
+
+	https://github.com/pjw839/ColdFuse3/blob/main/Policy
+	
+Random Store ColdFuse About
+---------------------------
+
+	https://github.com/pjw839/ColdFuse3/blob/main/About
+
 Random Store (ColdFuse) Terms of Use Information:
 -------------------------------------------------
 
@@ -444,4 +470,5 @@ If you have any questions about this Privacy Policy, You can contact us:
   * By email: randomstorestore11@gmail.com
 
   * By visiting this page on our website: <https://www.randomsstore.com>
+  
   
