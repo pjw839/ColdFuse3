@@ -1,47 +1,184 @@
-
+****************************
 AI PJ COMMANDS
+****************************
+Any object name can be used
+that carry's a signal:
 
-Taking out unwanted information before data hit your devices: 
-****************************************************
+Objects List at bottom of page.
 
-Any object name can be used:
+These commands must be before the 
+object name.
 
-Say- AI PJ search object name
+Search, Scan, Find, Send, Seek, Connect, 
+Disconnect, Delete, Remove, and Load.
 
-Say- AI PJ find object name
+My = User Devices/Network
+Without My = Other devices that are not yours
 
-Say- AI PJ scan object name
+Single Object:
+Say- AI PJ search (object)
+Say- AI PJ search (object) + (object)
 
-Say- AI PJ send object name off/on
+Like:
+Say- AI PJ search vehicle
+Say- AI PJ search vehicle wifi
 
+Multiple/Plural Objects:
+Say- AI PJ search (objects)
+Say- AI PJ search (objects) + (object)
 
-Like AI PJ scan ISP
+Like:
+Say- AI PJ search vehicles
+Say- AI PJ search vehicles wifi
 
-Like AI PJ scan vehicle
+Like:
+Say- AI PJ search vehicle wifi
 
-Like AI PJ scan Ford
+Say- AI PJ find vehicle wifi
 
-Like AI PJ scan tv
+Say- AI PJ scan vehicle wifi
 
-Like AI PJ scan router
+Say- AI PJ send vehicle wifi (off or on)
 
-Like AI PJ send vehicle WiFi on
-
-Like AI PJ find vehicle WiFi
-
-Like AI PJ search WiFi
-
-
-For User devices.
+For User devices:
 *****************
+Works with most devices.
 
-Say- AI PJ toogle object name off/on
+Say- AI PJ toogle (object name off/on)
 
-Like AI PJ toogle WiFi on
+Like- AI PJ toogle WiFi on
 
-Like AI PJ toogle Bluetooth on
+Like- AI PJ toogle Bluetooth on
 
+Delete and Remove:
+
+Say- AI PJ remove virus
+Say- AI PJ remove vehicle wifi
+
+Commands Object List:
+
+Vehicle Manufracture Names
+Vehicle
+Vehicles
+Router
+Modem
+Wifi
+Bluetooth
+Hotspot
+Location
+Remote
+Local
+Home
+Electricity
+Laptop
+Tablet
+Ipad
+Internet Provider Name
+Security System
+TV
+TV Provider
+Braodcast
+Cast
+Dialer
+Phone
+911 call
+Virus
+Media
+Video 
+Video Ads
+Ads
+Ip Address
+Bank
+Bank Name
+Mobile
+Mobile Data
+Mobile Carrier
+Camera
+Cameras
+Usb
+Battery
+Power
+Charger
+Light
+Lights
+Headset
+Headphones
+Audio
+Sound
+Airplane Mode
+Direct
+Carplay
+Phone Manufracture Name
+Network
+Keyboard
+Mouse
+Mirror
+Computer Manufracture Name
+Desktop
+Satellite
+Satellites
+Radio
+Signals
+Frequency
+Frequencies
+Antenna
+Rtl-Sdr
+Countries Name
+States Name
+Speakers
+Wifi Name
+Bluetooth Name
+Hotspot Name
+Smoke Detector
+Smart Watch
+Watches
+Doorbell
+Ring
+Games Manufracture Name
+Games Server
+Controller
+Controllers
+Tesla
+Autonomous
+Copilot
+Server
+Display
+Displays
+Monitor
+VPN
+Firewall
+Device
+Devices
+RideShare Names
+Delivery Provider Names
+Restaurant Names
+Email Provider Names
+Store Names
+Http
+Https
+Alexa
+Siri
+Browser Names
+Printer Names
+Arduino
+Iteris Vector
+Sms
+Mms
+Scam Calls
+Messages
+Cable
+Caller ID
+Telephone
+Lan
+Wlan
+Wireless
+Wan
+Offline Mode
+Appliances Names (with Bluetooth or Wifi)
+
+website:
+http://randomsstore.com
 
 website has full command list: 
-http://randomsstore.com
+
 https://pw79107.wixsite.com/randomstore/
