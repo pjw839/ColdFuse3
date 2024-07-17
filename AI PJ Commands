@@ -1,19 +1,27 @@
 ****************************
-AI PJ COMMANDS
+        AI PJ COMMANDS
 ****************************
+
+These commands only work when
+someone is hacking your network
+or the network you are on.  
+
 Any object name can be used
-that carry's a signal:
+that carries a signal:
 
-Objects List at bottom of page.
+Objects Name List at bottom of page.
 
-These commands must be before the 
-object name.
+These are the commands that must be 
+before the object name.
 
 Search, Scan, Find, Send, Seek, Connect, 
 Disconnect, Delete, Remove, and Load.
 
-My = User Devices/Network
-Without My = Other devices that are not yours
+My = The User Devices and/or Network.
+
+Without My = Other devices that are 
+not yours. This want cause no harm to
+your devices or network.
 
 Single Object:
 Say- AI PJ search (object)
@@ -60,6 +68,7 @@ Commands Object List:
 Vehicle Manufracture Names
 Vehicle
 Vehicles
+Keyfob
 Router
 Modem
 Wifi
@@ -81,7 +90,7 @@ Braodcast
 Cast
 Dialer
 Phone
-911 call
+911 call(use send command only)
 Virus
 Media
 Video 
@@ -175,6 +184,11 @@ Wireless
 Wan
 Offline Mode
 Appliances Names (with Bluetooth or Wifi)
+Fire Department
+Police
+Medstar
+windows Down(use send command only)
+
 
 website:
 http://randomsstore.com
