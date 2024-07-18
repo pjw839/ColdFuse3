@@ -39,6 +39,8 @@ Like:
 Say- AI PJ search vehicles
 Say- AI PJ search vehicles wifi
 
+Extra ways:
+
 Like:
 Say- AI PJ search vehicle wifi
 
@@ -58,12 +60,19 @@ Like- AI PJ toogle WiFi on
 
 Like- AI PJ toogle Bluetooth on
 
+Like- AI PJ switch WiFi on
+
+Like- AI PJ switch Bluetooth on
+
 Delete and Remove:
 
 Say- AI PJ remove virus
 Say- AI PJ remove vehicle wifi
 
 Commands Object List:
+
+Put My in front of this list names
+for your devices/network.
 
 Vehicle Manufracture Names
 Vehicle
@@ -90,7 +99,7 @@ Braodcast
 Cast
 Dialer
 Phone
-911 call(use send command only)
+911 call(use send command)
 Virus
 Media
 Video 
@@ -187,7 +196,7 @@ Appliances Names (with Bluetooth or Wifi)
 Fire Department
 Police
 Medstar
-windows Down(use send command only)
+Windows Down(use send command)
 
 
 website:
