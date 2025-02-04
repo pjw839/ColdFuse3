@@ -12,36 +12,49 @@ that carries a signal:
 Objects Name List at bottom of page.
 
 These are the commands that must be 
-before the object name.
+before the OBJECT NAME/KEYWORD.
 
+Commands:
+****************************************
 Search, Scan, Find, Send, Seek, Connect, 
 Disconnect, Delete, Remove, and Load.
 
 My = The User Devices and/or Network.
 
+Say *MyAIPJ + command + keyword
+Say *MyAIPJ + command + keyword + keyword
+
 Without My = Other devices that are 
 not yours. This want cause no harm to
 your devices or network.
 
+Say *MyAIPJ + command + object
+Say *MyAIPJ + command + object + object
+
 Single Object:
+*************************************
 Say- AI PJ search (object)
 Say- AI PJ search (object) + (object)
 
 Like:
+***********************************
 Say- AI PJ search vehicle
 Say- AI PJ search vehicle wifi
 
 Multiple/Plural Objects:
+**************************************
 Say- AI PJ search (objects)
 Say- AI PJ search (objects) + (object)
 
 Like:
+*****************************************
 Say- AI PJ search vehicles
 Say- AI PJ search vehicles wifi
 
 Extra ways:
-
+*****************************************
 Like:
+*****************************************
 Say- AI PJ search vehicle wifi
 
 Say- AI PJ find vehicle wifi
@@ -51,9 +64,9 @@ Say- AI PJ scan vehicle wifi
 Say- AI PJ send vehicle wifi (off or on)
 
 For User devices:
-*****************
+**************************************
 Works with most devices.
-
+**************************************
 Say- AI PJ toogle (object name off/on)
 
 Like- AI PJ toogle WiFi on
@@ -65,143 +78,68 @@ Like- AI PJ switch WiFi on
 Like- AI PJ switch Bluetooth on
 
 Delete and Remove:
-
+******************************
 Say- AI PJ remove virus
 Say- AI PJ remove vehicle wifi
 
 Commands Object List:
-
+**********************************
 Put My in front of this list names
 for your devices/network.
 
-Vehicle Manufracture Names
-Vehicle
-Vehicles
-Keyfob
-Router
-Modem
-Wifi
-Bluetooth
-Hotspot
-Location
-Remote
-Local
-Home
-Electricity
-Laptop
-Tablet
-Ipad
-Internet Provider Name
-Security System
-TV
-TV Provider
-Braodcast
-Cast
-Dialer
-Phone
-911 call(use send command)
-Virus
-Media
-Video 
-Video Ads
-Ads
-Ip Address
-Bank
-Bank Name
-Mobile
-Mobile Data
-Mobile Carrier
-Camera
-Cameras
-Usb
-Battery
-Power
-Charger
-Light
-Lights
-Headset
-Headphones
-Audio
-Sound
-Airplane Mode
-Direct
-Carplay
-Phone Manufracture Name
-Network
-Keyboard
-Mouse
-Mirror
-Computer Manufracture Name
-Desktop
-Satellite
-Satellites
-Radio
-Signals
-Frequency
-Frequencies
-Antenna
-Rtl-Sdr
-Countries Name
-States Name
-Speakers
-Wifi Name
-Bluetooth Name
-Hotspot Name
-Smoke Detector
-Smart Watch
-Watches
-Doorbell
-Ring
-Games Manufracture Name
-Games Server
-Controller
-Controllers
-Tesla
-Autonomous
-Copilot
-Server
-Display
-Displays
-Monitor
-VPN
-Firewall
-Device
-Devices
-RideShare Names
-Delivery Provider Names
-Restaurant Names
-Email Provider Names
-Store Names
-Http
-Https
-Alexa
-Siri
-Browser Names
-Printer Names
-Arduino
-Iteris Vector
-Sms
-Mms
-Scam Calls
-Messages
-Cable
-Caller ID
-Telephone
-Lan
-Wlan
-Wireless
-Wan
+MyAIPJ KEYWORDS/OBJECTS:
+**********************************
+My Keywords/Objects is a setup for
+the things you own. The About page
+will give more of an insight of how
+you can set your device.
+
+KEYWORDS/OBJECTS:
+***********************************
+Vehicle Manufracture Names, Vehicle
+Vehicles, Keyfob, Router, Modem
+Wifi, Bluetooth, Hotspot, Location
+Remote, Local, Home, Electricity
+Laptop, Tablet, Ipad, Internet Provider Name
+Security System, TV, TV Provider, Braodcast
+Cast, Dialer, Phone, 911 call(use send command)
+Virus, Media, Video, Video Ads
+Ads, Ip Address, Bank, Bank Name
+Mobile, Mobile Data, Mobile Carrier
+Camera, Cameras, Usb, Battery, Power
+Charger, Light, Lights, Headset
+Headphones, Audio, Sound, Airplane Mode
+Direct, Carplay, Phone Manufracture Name
+Network, Keyboard, Mouse, Mirror
+Computer Manufracture Name, Desktop
+Satellite, Satellites, Radio, Signals
+Frequency, Frequencies, Antenna
+Rtl-Sdr, Countries Name, States Name
+Speakers, Wifi Name, Bluetooth Name
+Hotspot Name, Smoke Detector, Smart Watch
+Watches, Doorbell, Ring
+Games Manufracture Name, Games Server
+Controller, Controllers, Tesla
+Autonomous, Copilot, Server
+Display, Displays, Monitor, VPN
+Firewall, Device, Devices
+RideShare Names, Delivery Provider Names
+Restaurant Names, Email Provider Names
+Store Names, Http, Https
+Alexa, Siri, Browser Names
+Printer Names, Arduino, Iteris Vector
+Sms, Mms, Scam Calls, Messages
+Cable, Caller ID, Telephone
+Lan, Wlan, Wireless, Wan
 Offline Mode
 Appliances Names (with Bluetooth or Wifi)
-Fire Department
-Police
-Medstar
+Fire Department, Police, Medstar
 Windows Down(use send command)
 
-
-website:
+websites:
+****************************************
 http://randomsstore.com
 
 website has full command list: 
-
+****************************************
 https://pw79107.wixsite.com/randomstore/
